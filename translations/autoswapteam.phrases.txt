@@ -8,6 +8,7 @@
 		"pl"			"UWAGA: Drużyny zostaną zamienione po upływie {1} minut(y)!"
         "pt"			"ATENCAO: Os times serao trocados apos {1} min!"
 		"tr"			"DİKKAT: Takımlar {1} dakika sonra otomatik olarak değişecek!"
+		"ru"			"ВНИМАНИЕ: Команды поменяются местами после {1} минут!"
 	}
 
 	"advert_rounds"
@@ -18,6 +19,7 @@
         "pl"			"UWAGA: Drużyny zostaną zamienione po {1} rund(dzie/ach)!"
 		"pt"			"ATENCAO: Os times serao trocados apos {1} rodadas!"
 		"tr"			"DİKKAT: Takımlar {1} dakika sonra otomatik olarak değişecek!"
+        "ru"			"ВНИМАНИЕ: Команды поменяются местами после {1} раундов!"
 	}
 
 	"advert_wins"
@@ -28,6 +30,7 @@
         "pl"			"UWAGA: Drużyny zostaną zamienione po {1} wygranych rund(dzie/ach)!"
 		"pt"			"ATENCAO: Os times serao trocados quando um ganhar {1} rodadas!"
         "tr"			"DİKKAT: Takımlar {1} dakika sonra otomatik olarak değişecek!"
+        "ru"			"ВНИМАНИЕ: Команды поменяются местами после победы в {1} раундах!"
 	}
 
 	"advert_frags"
@@ -38,6 +41,7 @@
 		"pl"			"UWAGA: Drużyny zostaną zamienione gdy gracz uzyska {1} punkt(ów)!"
 		"pt"			"ATENCAO: Os times serao trocados quando um jogador atingir {1} pontos!"
         "tr"			"DİKKAT: Bir oyuncu {1} puan kazandığında takımlar otomatik olarak değişecek!"
+		"ru"			"ВНИМАНИЕ: Команды поменяются местами после достижения {1} очков одного из игроков!"
 	}
 
 	"advert_will_swap"
@@ -47,6 +51,7 @@
         "pl"			"UWAGA: Drużyny zostaną zamienione pod koniec aktualnej rundy!"
 		"pt"			"ATENCAO: Os Times serao trocados ao final desta rodada!"
 		"tr"			"DİKKAT: Raund sonunda takımlar otomatik olarak değişecek!"
+        "ru"			"ВНИМАНИЕ: Команды поменяются местами в конце этого раунда!"
     }
 
 	"advert_were_swap"
@@ -56,6 +61,7 @@
         "pl"			"UWAGA: Drużyny zostaną zamienione!"
 		"pt"			"ATENCAO: Os times foram trocados!"
    		"tr"			"DİKKAT: Takımlar değişti!"
+        "ru"			"ВНИМАНИЕ: Команды поменялись местами!"
 	}
 
 	"invalid_steamid"
@@ -65,6 +71,7 @@
 		"pl"			"Niepoprawny STEAM ID!"
 		"pt"			"STEAM ID invalida!"
 		"tr"			"STEAM geçersiz!"
+		"ru"			"STEAM ID недействителен!"
 	}
 
 	"invalid_immunity"
@@ -74,6 +81,7 @@
 		"pl"			"Niepoprawny IMMUNITET!"
 		"pt"			"IMUNIDADE invalida!"
         "tr"			"DOKUNULMAZLIK geçersiz!"
+		"ru"			"ИММУНИТЕТ недействителен!"
 	}
 
 	"immunity_add_success"
@@ -83,6 +91,7 @@
 		"pl"			"STEAM ID pomyślnie dodany!"
 		"pt"			"STEAM ID adicionada com sucesso!"
         "tr"			"STEAM başarıyla eklendi!"
+		"ru"			"STEAM ID успешно добавлен!"
 	}
 
 	"immunity_add_error"
@@ -92,6 +101,7 @@
 		"pl"			"BŁĄD: niepowodzenie podczas dodawania STEAM ID..."
 		"pt"			"ERRO: falha ao tentar adicionar STEAM ID..." 
    		"tr"			"HATA: STEAM ekleme hatası..."
+		"ru"			"ОШИБКА: не может добавить STEAM ID..."
 	}
 
 	"immunity_get_error"
@@ -101,6 +111,7 @@
 		"pl"			"BŁĄD: niepowodzenie podczas konsultacji? immunitetu..."
 		"pt"			"ERRO: falha ao tentar consultar imunidade..."
    		"tr"			"HATA: dokunulmazlık girişimi başarısız..."
+		"ru"			"ОШИБКА: не справляется с иммунитетом..."
 	}
 
 	"immunity_del_success"
@@ -110,6 +121,7 @@
 		"pl"			"STEAM ID pomyślnie usunięte!"
 		"pt"			"STEAM ID removida com sucesso!"
         "tr"			"STEAM başarı ile çıkarıldı!"
+		"ru"			"STEAM ID успешно удалён!"
 	}
 
 	"immunity_del_error"
@@ -119,5 +131,6 @@
 		"en"			"BŁĄD: błąd podczas usuwania STEAM ID..."
 		"pt"			"ERRO: falha ao tentar remover STEAM ID..."
         "tr"			"ERROR: STEAM ID çıkarma hatası..."
+		"ru"			"ОШИБКА: не удаляется STEAM ID..."
 	}
 }
